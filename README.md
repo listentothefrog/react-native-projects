@@ -54,10 +54,10 @@ cd react-native-chat-app
 
 1. Set up Firebase:
 
-   a. Create a Firebase project at https://console.firebase.google.com/.
-   b. Add an Android and/or iOS app in the Firebase project (depending on your target platform).
-   c. Obtain the Firebase configuration (API keys, database URL, etc.).
-   d. Add the Firebase configuration to the app by following the setup instructions provided by Firebase.
+   - Create a Firebase project at https://console.firebase.google.com/.
+   - Add an Android and/or iOS app in the Firebase project (depending on your target platform).
+   - Obtain the Firebase configuration (API keys, database URL, etc.).
+   - Add the Firebase configuration to the app by following the setup instructions provided by Firebase.
 
 2. Start the development server:
 
