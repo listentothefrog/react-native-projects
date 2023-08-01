@@ -4,7 +4,7 @@ Welcome to the React Native Chat App project! This app allows users to chat with
 
 ## Features
 
-Real-time messaging with other users.
-User authentication and account management.
-Notification support for incoming messages.
-Typing indicators for a more interactive chat experience.
+1. Real-time messaging with other users.
+2. User authentication and account management.
+3. Notification support for incoming messages.
+4. Typing indicators for a more interactive chat experience.
