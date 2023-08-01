@@ -74,18 +74,18 @@ To run a specific project, navigate to its folder using the terminal and follow 
 cd react-native-projects/project-1
 ```
 2. Install project dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 3. Start the development server:
-   ```bash
-   npx react-native start
-   ```
+```bash
+npx react-native start
+```
 4. Run the app on an emulator or physical device:
-   ```bash
-   npx react-native run-android  # For Android
-   npx react-native run-ios      # For iOS
-
+```bash
+npx react-native run-android  # For Android
+npx react-native run-ios      # For iOS
+```
 Remember to check the specific project's README.md file for any additional steps or considerations.
 
 ## Contributing
